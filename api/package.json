@@ -1,9 +1,0 @@
-{
-  "name": "teejaymax-cj-proxy",
-  "version": "1.0.0",
-  "description": "CJ Dropshipping API proxy for TeeJay Max Dashboard",
-  "private": true,
-  "engines": {
-    "node": "18.x"
-  }
-}
